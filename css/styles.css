@@ -71,5 +71,37 @@ h1
 }
 
 
+/* Feature Section */
 
+h3
+{
+    font-family: "Montserrat";
+    font-weight: 900;
+}
 
+p
+{
+    color: #8f8f8f;
+}
+
+.feature-box
+{
+    text-align: center;
+    padding: 5%;
+}
+
+.feature-icon
+{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.feature-icon:hover
+{
+    color: #ff4c68;
+}
+
+#features
+{
+    padding : 7% 15%;
+}
