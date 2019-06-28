@@ -105,3 +105,44 @@ p
 {
     padding : 7% 15%;
 }
+
+/* Testimonial Section */
+
+h2{
+    font-family: "Montserrat";
+}
+
+.testimonial-img
+{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item
+{
+    padding : 7% 15%;
+}
+
+#testimonials
+{
+    text-align: center;
+    color: white;
+    background-color: #ef8172;
+}
+
+/* Press Section */
+
+.press-logo
+{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#press
+{
+    padding-bottom : 3%;
+    text-align: center;
+    background-color: #ef8172;
+}
+
